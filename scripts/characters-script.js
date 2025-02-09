@@ -14,6 +14,18 @@ const setGallery = () => {
     characters[currentCharacterIdx].image;
   document.getElementById("characterImg").alt =
     characters[currentCharacterIdx].name + " Image";
+  document.getElementById("prevBtn").textContent =
+    characters[
+      currentCharacterIdx === 0
+        ? characters.length - 1
+        : currentCharacterIdx - 1
+    ].name;
+  document.getElementById("nextBtn").textContent =
+    characters[
+      currentCharacterIdx === characters.length - 1
+        ? 0
+        : currentCharacterIdx + 1
+    ].name;
 };
 
 setGallery();
