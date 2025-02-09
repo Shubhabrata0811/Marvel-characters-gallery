@@ -1,0 +1,33 @@
+.marvel {
+  position: relative;
+  color: #fff;
+  background-color: red;
+  letter-spacing: -0.2rem;
+  font-size: 5rem;
+  padding: 0 0.4rem;
+  font-weight: 800;
+  margin-right: 20px;
+}
+
+.character {
+  position: relative;
+  color: red;
+  font-weight: 400;
+  letter-spacing: -0.3rem;
+  display: inline-block;
+  font-size: 5rem;
+}
+
+.character::before,
+.character::after {
+  content: "";
+  position: absolute;
+  height: 4px;
+  background-color: red;
+  left: 0;
+  right: 0;
+}
+
+.character::after {
+  bottom: 0px;
+}

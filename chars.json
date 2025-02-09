@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Iron Man",
+    "description": "Wounded, captured and forced to build a weapon by his enemies, billionaire industrialist Tony Stark instead created an advanced suit of armor to save his life and escape captivity. Now with a new outlook on life, Tony uses his money and intelligence to make the world a safer, better place as Iron Man.",
+    "image": "images/Iron Man.jpg"
+  },
+  {
+    "name": "Captain America",
+    "description": "Vowing to serve his country any way he could, young Steve Rogers took the super soldier serum to become America's one-man army. Fighting for the red, white and blue for over 60 years, Captain America is the living, breathing symbol of freedom and liberty.",
+    "image": "images/Captain America.jpg"
+  },
+  {
+    "name": "Black Panther",
+    "description": "",
+    "image": "images/Black Panther.jpg"
+  },
+  {
+    "name": "Thor",
+    "description": "As the Norse God of thunder and lightning, Thor wields one of the greatest weapons ever made, the enchanted hammer Mjolnir. While others have described Thor as an over-muscled, oafish imbecile, he's quite smart and compassionate.  He's self-assured, and he would never, ever stop fighting for a worthwhile cause.",
+    "image": "images/Thor.jpg"
+  },
+  {
+    "name": "Hulk",
+    "description": "Caught in a gamma bomb explosion while trying to save the life of a teenager, Dr. Bruce Banner was transformed into the incredibly powerful creature called the Hulk. An all too often misunderstood hero, the angrier the Hulk gets, the stronger the Hulk gets.",
+    "image": "images/Hulk.jpg"
+  },
+  {
+    "name": "Black Widow",
+    "description": "",
+    "image": "images/Black Widow.jpg"
+  },
+  { "name": "Hawkeye", "description": "", "image": "images/Hawkeye.jpg" },
+  {
+    "name": "Doctor Strange",
+    "description": "",
+    "image": "images/Doctor Strange.jpg"
+  },
+  {
+    "name": "Scarlet Witch",
+    "description": "",
+    "image": "images/Scarlet Witch.jpg"
+  },
+  {
+    "name": "Vision",
+    "description": "The metal monstrosity called Ultron created the synthetic humanoid known as the Vision from the remains of the original android Human Torch of the 1940s to serve as a vehicle of vengeance against the Avengers.",
+    "image": "images/Vision.jpg"
+  },
+  {
+    "name": "Falcon",
+    "description": "With a mental connection to all birds and a suit that gives him wings to fly, The Falcon has been both the partner to Captain America and an Avenger himself. Whether as a super hero or in his secret identity of social worker Sam Wilson, The Falcon dedicates his life to standing up for others.",
+    "image": "images/Falcon.jpg"
+  },
+  {
+    "name": "Spider-Man (Peter Parker)",
+    "description": "Bitten by a radioactive spider, high school student Peter Parker gained the speed, strength and powers of a spider. Adopting the name Spider-Man, Peter hoped to start a career using his new abilities. Taught that with great power comes great responsibility, Spidey has vowed to use his powers to help people.",
+    "image": "images/Spider-Man (Peter Parker).jpg"
+  },
+  {
+    "name": "Winter Soldier",
+    "description": "",
+    "image": "images/Winter Soldier.jpg"
+  },
+  {
+    "name": "War Machine (James Rhodes)",
+    "description": "<span style=\"color: #333333; font-family: &amp;amp;amp; font-size: 14.4px; letter-spacing: normal; line-height: normal; background-color: #eeeeee;\">U.S. Air Force pilot and Tony Stark's friend who has his own suit of Iron Man armor, nicknamed, \"War Machine.\"</span>",
+    "image": "images/War Machine (James Rhodes).jpg"
+  },
+  { "name": "Cyclops", "description": "", "image": "images/Cyclops.jpg" },
+  { "name": "Beast", "description": "", "image": "images/Beast.jpg" },
+  {
+    "name": "Storm",
+    "description": "Ororo Monroe is the descendant of an ancient line of African priestesses, all of whom have white hair, blue eyes, and the potential to wield magic.",
+    "image": "images/Storm.jpg"
+  },
+  { "name": "Rogue", "description": "", "image": "images/Rogue.jpg" },
+  {
+    "name": "Thanos",
+    "description": "The Mad Titan Thanos, a melancholy, brooding individual, consumed with the concept of death, sought out personal power and increased strength, endowing himself with cybernetic implants until he became more powerful than any of his brethren.",
+    "image": "images/Thanos.jpg"
+  },
+  { "name": "Gamora", "description": "", "image": "images/Gamora.jpg" },
+  {
+    "name": "Green Goblin (Norman Osborn)",
+    "description": "",
+    "image": "images/Green Goblin (Norman Osborn).jpg"
+  }
+]
