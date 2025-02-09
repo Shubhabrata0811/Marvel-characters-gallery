@@ -51,20 +51,20 @@ body {
   padding-left: 40px;
 }
 
-.character-details {
+.characterDetails {
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
-.character-details img {
+.characterDetails img {
   height: 600px;
   border-right: 2px solid red;
   border-bottom: 2px solid red;
   box-shadow: 10px 10px 20px rgba(124, 67, 67, 0.5);
 }
 
-.character-description {
+.characterAbout {
   position: relative;
   height: 600px;
   width: 900px;
@@ -75,7 +75,7 @@ body {
 
 }
 
-.character-description h2 {
+.characterAbout h2 {
   font-size: 40px;
   font-weight: 800;
 }
@@ -94,7 +94,7 @@ body {
   border-radius: 5px;
 }
 
-.nav-btn {
+.navBtns {
   background-color: rgba(49, 47, 47, 0.5);
   color: white;
   font-size: 20px;
