@@ -5,11 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Characters</title>
     <link rel="stylesheet" href="styles/character-page.css" />
+    <script src="scripts/characters-script.js"></script>
   </head>
   <body>
     <header
       style="
-        background-color: black;
+        background-color: rgba(0, 0, 0, 0.8);
         min-height: 150px;
         display: flex;
         justify-content: center;
@@ -17,9 +18,31 @@
       "
     >
       <div>
-        <span class="marvel">MARVEL</span>
-        <span class="character">CHARACTERS</span>
+        <span id="marvel">MARVEL</span>
+        <span id="characters">CHARACTERS</span>
       </div>
     </header>
+
+    <div class="gallery">
+      <div class="character-details">
+        <figure>
+          <img src="images/Thor.jpg" alt="Thor" />
+        </figure>
+        <div class="character-description">
+          <h2 id="characterName">Thor</h2>
+          <hr />
+          <p id="characterDescription">
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint
+            libero, perspiciatis dolorum iusto, esse exercitationem dolore animi
+            facere fugit perferendis debitis id. Ipsam enim praesentium velit
+            itaque commodi fugit iure.
+          </p>
+          <div id="btns">
+            <button id="prev-btn" class="nav-btn">Previous</button>
+            <button id="next-btn" class="nav-btn">Next</button>
+          </div>
+        </div>
+      </div>
+    </div>
   </body>
 </html>

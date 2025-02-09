@@ -1,4 +1,10 @@
-.marvel {
+body {
+  background-image: url("../images/bw-bg.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+#marvel {
   position: relative;
   color: #fff;
   background-color: red;
@@ -9,17 +15,17 @@
   margin-right: 20px;
 }
 
-.character {
+#characters {
   position: relative;
   color: red;
-  font-weight: 400;
+  font-weight: px;
   letter-spacing: -0.3rem;
   display: inline-block;
   font-size: 5rem;
 }
 
-.character::before,
-.character::after {
+#characters::before,
+#characters::after {
   content: "";
   position: absolute;
   height: 4px;
@@ -28,6 +34,73 @@
   right: 0;
 }
 
-.character::after {
+#characters::after {
   bottom: 0px;
+}
+
+.gallery {
+  max-width: 100%;
+  height: 750px;
+  background-color: rgba(245, 245, 220, 0.85);
+  margin-top: 20px;
+  margin-left: 25px;
+  margin-right: 25px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding-left: 40px;
+}
+
+.character-details {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.character-details img {
+  height: 600px;
+  border-right: 2px solid red;
+  border-bottom: 2px solid red;
+  box-shadow: 10px 10px 20px rgba(124, 67, 67, 0.5);
+}
+
+.character-description {
+  position: relative;
+  height: 600px;
+  width: 900px;
+  padding: 20px;
+  font-size: 20px;
+  font-weight: 600;
+  color: #000;
+
+}
+
+.character-description h2 {
+  font-size: 40px;
+  font-weight: 800;
+}
+
+#btns {
+  position: absolute;
+  bottom: 30px;
+  left: 20px;
+  right: 20px;
+  background-color: rgba(0, 0, 0, 0.4);
+  height: 45px;
+  padding: 0 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 5px;
+}
+
+.nav-btn {
+  background-color: rgba(49, 47, 47, 0.5);
+  color: white;
+  font-size: 20px;
+  font-weight: 100;
+  border-radius: 5px;
+  border: none;
+  box-shadow: 5px 5px 5px #b3b1b1;
+  cursor: pointer;
 }
