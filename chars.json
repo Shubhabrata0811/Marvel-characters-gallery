@@ -11,12 +11,12 @@
   },
   {
     "name": "Black Panther",
-    "description": "",
+    "description": "King T'Challa of Wakanda, also known as the Black Panther, is a brilliant strategist, scientist, and warrior who defends his nation with enhanced abilities granted by the Heart-Shaped Herb.",
     "image": "images/Black Panther.jpg"
   },
   {
     "name": "Thor",
-    "description": "As the Norse God of thunder and lightning, Thor wields one of the greatest weapons ever made, the enchanted hammer Mjolnir. While others have described Thor as an over-muscled, oafish imbecile, he's quite smart and compassionate.  He's self-assured, and he would never, ever stop fighting for a worthwhile cause.",
+    "description": "As the Norse God of thunder and lightning, Thor wields one of the greatest weapons ever made, the enchanted hammer Mjolnir. While others have described Thor as an over-muscled, oafish imbecile, he's quite smart and compassionate. He's self-assured, and he would never, ever stop fighting for a worthwhile cause.",
     "image": "images/Thor.jpg"
   },
   {
@@ -26,18 +26,22 @@
   },
   {
     "name": "Black Widow",
-    "description": "",
+    "description": "Natasha Romanoff, a former Russian spy turned S.H.I.E.L.D. agent and Avenger, is a master of martial arts, marksmanship, and espionage. Known as Black Widow, she seeks redemption for her past.",
     "image": "images/Black Widow.jpg"
   },
-  { "name": "Hawkeye", "description": "", "image": "images/Hawkeye.jpg" },
+  {
+    "name": "Hawkeye",
+    "description": "Clint Barton, known as Hawkeye, is a master archer and sharpshooter. Despite being a regular human among super-powered beings, his skill and determination make him an invaluable member of the Avengers.",
+    "image": "images/Hawkeye.jpg"
+  },
   {
     "name": "Doctor Strange",
-    "description": "",
+    "description": "Dr. Stephen Strange, a once-renowned neurosurgeon, became the Sorcerer Supreme after a tragic accident led him to the mystic arts. He now protects Earth from magical and interdimensional threats.",
     "image": "images/Doctor Strange.jpg"
   },
   {
     "name": "Scarlet Witch",
-    "description": "",
+    "description": "Wanda Maximoff, also known as Scarlet Witch, is one of the most powerful beings in the Marvel Universe, capable of manipulating reality and wielding chaos magic.",
     "image": "images/Scarlet Witch.jpg"
   },
   {
@@ -47,7 +51,7 @@
   },
   {
     "name": "Falcon",
-    "description": "With a mental connection to all birds and a suit that gives him wings to fly, The Falcon has been both the partner to Captain America and an Avenger himself. Whether as a super hero or in his secret identity of social worker Sam Wilson, The Falcon dedicates his life to standing up for others.",
+    "description": "With a mental connection to all birds and a suit that gives him wings to fly, The Falcon has been both the partner to Captain America and an Avenger himself. Whether as a superhero or in his secret identity of social worker Sam Wilson, The Falcon dedicates his life to standing up for others.",
     "image": "images/Falcon.jpg"
   },
   {
@@ -57,7 +61,7 @@
   },
   {
     "name": "Winter Soldier",
-    "description": "",
+    "description": "Once Captain America's best friend, Bucky Barnes was transformed into the Winter Soldier—a brainwashed assassin with a bionic arm. After regaining his memories, he fights to make amends for his past.",
     "image": "images/Winter Soldier.jpg"
   },
   {
@@ -65,23 +69,39 @@
     "description": "Wade Wilson was born in Canada, but grew up to become the least Canadian person ever. When it comes to the Merc with a Mouth, with great power comes no responsibility.",
     "image": "images/Deadpool.jpg"
   },
-  { "name": "Cyclops", "description": "", "image": "images/Cyclops.jpg" },
-  { "name": "Beast", "description": "", "image": "images/Beast.jpg" },
+  {
+    "name": "Cyclops",
+    "description": "Scott Summers, also known as Cyclops, is a leader of the X-Men and a master strategist. His optic blasts are both a powerful weapon and a constant challenge to control.",
+    "image": "images/Cyclops.jpg"
+  },
+  {
+    "name": "Beast",
+    "description": "Dr. Hank McCoy, also known as Beast, is a genius-level scientist with superhuman strength, agility, and a distinctive blue, furry appearance. His intellect is matched only by his compassion.",
+    "image": "images/Beast.jpg"
+  },
   {
     "name": "Storm",
     "description": "Ororo Monroe is the descendant of an ancient line of African priestesses, all of whom have white hair, blue eyes, and the potential to wield magic.",
     "image": "images/Storm.jpg"
   },
-  { "name": "Rogue", "description": "", "image": "images/Rogue.jpg" },
+  {
+    "name": "Rogue",
+    "description": "Rogue is a powerful mutant with the ability to absorb the powers, memories, and life force of others through touch, often struggling to control her abilities.",
+    "image": "images/Rogue.jpg"
+  },
   {
     "name": "Thanos",
     "description": "The Mad Titan Thanos, a melancholy, brooding individual, consumed with the concept of death, sought out personal power and increased strength, endowing himself with cybernetic implants until he became more powerful than any of his brethren.",
     "image": "images/Thanos.jpg"
   },
-  { "name": "Gamora", "description": "", "image": "images/Gamora.jpg" },
+  {
+    "name": "Gamora",
+    "description": "The last of her species, Gamora was adopted by Thanos and raised to be the deadliest woman in the galaxy. She now fights alongside the Guardians of the Galaxy to atone for her past.",
+    "image": "images/Gamora.jpg"
+  },
   {
     "name": "Green Goblin (Norman Osborn)",
-    "description": "",
+    "description": "Industrialist Norman Osborn became the Green Goblin after an experimental serum enhanced his strength and intelligence at the cost of his sanity, making him Spider-Man's most dangerous foe.",
     "image": "images/Green Goblin (Norman Osborn).jpg"
   }
 ]
